@@ -47,7 +47,7 @@ Este é um projeto acadêmico desenvolvido em Java que implementa um sistema de 
 *Tela principal do sistema mostrando a interface completa com formulários de cadastro e tabelas organizadas*
 
 ### Cadastro de Avião
-![Cadastro de Avião](images/cadastro_aviao.png) (images/cadastro_aviao2.png)
+![Cadastro de Avião](images/cadastro_aviao.png)
 *Formulário de cadastro de avião com todos os campos específicos: prefixo, capacidade, passageiros, preço e data de revisão*
 
 ### Cadastro de Navio
