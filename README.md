@@ -40,6 +40,32 @@ Este é um projeto acadêmico desenvolvido em Java que implementa um sistema de 
   - Tabelas para exibição de dados
   - Formulários de cadastro interativos
 
+## 📸 Demonstração do Sistema
+
+### Interface Gráfica Principal
+![Interface Gráfica](images/interface_principal.png)
+*Tela principal do sistema mostrando a interface completa com formulários de cadastro e tabelas organizadas*
+
+### Cadastro de Avião
+![Cadastro de Avião](images/cadastro_aviao.png)
+*Formulário de cadastro de avião com todos os campos específicos: prefixo, capacidade, passageiros, preço e data de revisão*
+
+### Cadastro de Navio
+![Cadastro de Navio](images/cadastro_navio.png)
+*Formulário de cadastro de navio incluindo campos específicos: nome, tripulantes, data de lançamento*
+
+### Tabelas de Veículos
+![Tabelas de Veículos](images/tabelas_veiculos.png)
+*Visualização das tabelas organizadas por tipo de veículo com dados cadastrados*
+
+### Estatísticas do Sistema
+![Estatísticas](images/estatisticas.png)
+*Relatório de estatísticas detalhadas mostrando totais, médias e capacidades*
+
+### Sistema de Linha de Comando
+![Sistema Console](images/sistema_console.png)
+*Menu interativo do sistema de linha de comando com todas as opções disponíveis*
+
 ## 🚀 Funcionalidades
 
 ### Sistema de Linha de Comando
@@ -77,6 +103,13 @@ SistemaVeiculos/
 │       └── InterfaceGrafica.java  # Interface gráfica
 ├── bin/
 │   └── veiculos/                 # Arquivos compilados (.class)
+├── images/                       # Imagens de demonstração
+│   ├── interface_principal.png
+│   ├── cadastro_aviao.png
+│   ├── cadastro_navio.png
+│   ├── tabelas_veiculos.png
+│   ├── estatisticas.png
+│   └── sistema_console.png
 └── README.md
 ```
 
